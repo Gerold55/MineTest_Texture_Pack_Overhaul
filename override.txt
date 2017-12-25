@@ -1,0 +1,5 @@
+#default:fence_wood * default_wood.png
+#default:fence_pine_wood * default_wood.png
+#default:fence_aspen_wood * default_wood.png
+#default:fence_acacia_wood * default_wood.png
+#default:fence_junglewood * default_wood.png
